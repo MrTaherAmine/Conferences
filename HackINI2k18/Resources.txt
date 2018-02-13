@@ -5,7 +5,6 @@ Workshop: Penetration Testing 101
 Speaker: Tahar Amine ELHOUARI
 
 
-
 Ressources:
 ===========
 Slides: https://github.com/TaharAmine/Conferences/tree/master/HackINI2k18
