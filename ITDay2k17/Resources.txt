@@ -5,7 +5,6 @@ Workshop: Practical Approach to Ethical Hacking
 Speaker: Tahar Amine ELHOUARI
 
 
-
 Ressources:
 ===========
 Slides: https://github.com/TaharAmine/Conferences/tree/master/ITDay2k17
