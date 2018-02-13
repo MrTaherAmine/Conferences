@@ -1,0 +1,21 @@
+Event: Hack.INI 2018
+Organizer: Shellmates Club
+Sponsor: Adex Technology
+Workshop: Penetration Testing 101
+Speaker: Tahar Amine ELHOUARI
+
+
+
+Ressources:
+===========
+Slides: https://github.com/TaharAmine/Conferences/tree/master/HackINI2k18
+PTES: http://www.pentest-standard.org/index.php/Main_Page
+OWASP: https://www.owasp.org/index.php/Main_Page
+OSSTMM: http://www.isecom.org/research/
+Kali Linux: https://www.kali.org/
+OSCP: https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/
+Vulnerable Machine: https://www.vulnhub.com/entry/basic-pentesting-1,216/
+VM Walkthrough: https://www.youtube.com/watch?v=bkc_jSmW2-0
+HackTheBox: https://www.hackthebox.eu/
+VulnHub: https://www.vulnhub.com/
+Personal Website: https://www.taharamine.me/
