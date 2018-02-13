@@ -1,0 +1,25 @@
+Event: ITDay 2017
+Organizer: Ilm Center
+Conference: Intro to Ethical Hacking & CTFs
+Workshop: Practical Approach to Ethical Hacking
+Speaker: Tahar Amine ELHOUARI
+
+
+
+Ressources:
+===========
+Slides: https://github.com/TaharAmine/Conferences/tree/master/ITDay2k17
+Vulnerable Machine: https://www.hackthebox.eu/home/machines/profile/1
+VM Walkthrough: https://www.youtube.com/watch?v=_aFMk49UzXs
+Cybrary: https://www.cybrary.it/
+Udemy: https://www.udemy.com/
+Pluralsight: https://www.pluralsight.com/
+HackerOne: https://www.hackerone.com/
+Bugcrowd: https://www.bugcrowd.com/
+Upwork: https://www.upwork.com/
+CTFTime: https://ctftime.org/
+HackTheBox: https://www.hackthebox.eu/
+VulnHub: https://www.vulnhub.com/
+Root-me: https://www.root-me.org/?lang=en
+HackThis!!: https://www.hackthis.co.uk/
+Personal Website: https://www.taharamine.me/
