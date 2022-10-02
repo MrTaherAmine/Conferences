@@ -1,5 +1,5 @@
 # Conferences
-Slides and materials of all my conferences and workshops!
+Slides and materials of some conferences and workshops!
 
 
 SpeakerDeck | Online PDF of the slides:
